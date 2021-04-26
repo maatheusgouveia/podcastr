@@ -10,6 +10,8 @@ Projeto desenvolvido durante a NLW #5 da Rocketseat na trilha de React.
 
 -   Typescript
 
+-	SASS
+
 -   SSR e SSG
 
 -   JSON Server
